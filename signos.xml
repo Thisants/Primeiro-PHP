@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <data>21 de março - 19 de abril</data>
+        <descricao>Impulsivo, energético e corajoso.</descricao>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <data>20 de abril - 20 de maio</data>
+        <descricao>Paciente, determinado e estável.</descricao>
+    </signo>
+    <signo>
+        <nome>Gêmeos</nome>
+        <data>21 de maio - 20 de junho</data>
+        <descricao>Comunicativo, versátil e curioso.</descricao>
+    </signo>
+    <signo>
+        <nome>Câncer</nome>
+        <data>21 de junho - 22 de julho</data>
+        <descricao>Emotivo, protetor e sensível.</descricao>
+    </signo>
+    <signo>
+        <nome>Leão</nome>
+        <data>23 de julho - 22 de agosto</data>
+        <descricao>Confiante, criativo e generoso.</descricao>
+    </signo>
+    <signo>
+        <nome>Virgem</nome>
+        <data>23 de agosto - 22 de setembro</data>
+        <descricao>Analítico, prático e detalhista.</descricao>
+    </signo>
+    <signo>
+        <nome>Libra</nome>
+        <data>23 de setembro - 22 de outubro</data>
+        <descricao>Equilibrado, diplomático e sociável.</descricao>
+    </signo>
+    <signo>
+        <nome>Escorpião</nome>
+        <data>23 de outubro - 21 de novembro</data>
+        <descricao>Intenso, misterioso e determinado.</descricao>
+    </signo>
+    <signo>
+        <nome>Sagitário</nome>
+        <data>22 de novembro - 21 de dezembro</data>
+        <descricao>Aventureiro, otimista e filosófico.</descricao>
+    </signo>
+    <signo>
+        <nome>Capricórnio</nome>
+        <data>22 de dezembro - 20 de janeiro</data>
+        <descricao>Ambicioso, disciplinado e responsável.</descricao>
+    </signo>
+    <signo>
+        <nome>Aquário</nome>
+        <data>21 de janeiro - 18 de fevereiro</data>
+        <descricao>Inovador, excêntrico e idealista.</descricao>
+    </signo>
+    <signo>
+        <nome>Peixes</nome>
+        <data>19 de fevereiro - 20 de março</data>
+        <descricao>Sonhador, compassivo e artístico.</descricao>
+    </signos>
+</xml>

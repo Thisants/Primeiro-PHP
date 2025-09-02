@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(40, 0, 60); /* Roxo escuro de fundo (estilo punk) */
+    color: white;
+}
+
+header {
+    background-color: #800080; /* Roxo intenso */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+
+h2, h3, h4, p {
+    color: white;
+}
+
+form {
+    background-color: rgba(225, 11, 11, 0.05); /* leve transparência branca */
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+input[type="date"] {
+    background-color: #1e0033;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #ff00ff; /* pink vibrante */
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e600e6;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+.container {
+    padding: 20px;
+}
